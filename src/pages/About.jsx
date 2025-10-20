@@ -83,7 +83,7 @@ const About = () => {
               viewport={{ once: true }}
               className="text-white/70 text-base md:text-lg lg:text-xl leading-relaxed text-left"
             >
-              Hi, I'm Khushi! I'm currently working on frontend projects while learning Data Structures and Algorithms with C++. My next goal is to dive into backend development and transition into full-stack development. I'm open to collaborating on frontend projects, and you can always reach out to me for discussions about frontend development, React, or DSA. I enjoy solving coding problems and building beautiful, user-friendly UIs.
+              Hi, I'm Khushi! I'm a Frontend Developer with expertise in React and modern JavaScript frameworks. I build responsive, user-centric web applications with strong problem-solving capabilities backed by solid Data Structures and Algorithms knowledge in C++. I focus on writing clean, efficient code and creating intuitive interfaces that enhance user experience. Open to frontend development opportunities where I can contribute to impactful projects and deliver measurable results.
             </motion.p>
           </motion.div>
         </div>
