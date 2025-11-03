@@ -83,8 +83,7 @@ const About = () => {
               viewport={{ once: true }}
               className="text-white/70 text-base md:text-lg lg:text-xl leading-relaxed text-left"
             >
-              Hi, I'm Khushi! I'm a Frontend Developer with expertise in React and modern JavaScript frameworks. I build responsive, user-centric web applications with strong problem-solving capabilities backed by solid Data Structures and Algorithms knowledge in C++. I focus on writing clean, efficient code and creating intuitive interfaces that enhance user experience. Open to frontend development opportunities where I can contribute to impactful projects and deliver measurable results.
-            </motion.p>
+            Hi, I'm Khushi! I'm a Frontend Developer with expertise in React and modern JavaScript frameworks. ADK-TS Hackathon Winner for innovative multi-agent collaboration. I build responsive, user-centric web applications with strong problem-solving capabilities backed by solid Data Structures and Algorithms knowledge in C++. I focus on writing clean, efficient code and creating intuitive interfaces that enhance user experience. Open to frontend development opportunities where I can contribute to impactful projects and deliver measurable results.​            </motion.p>
           </motion.div>
         </div>
       </div>

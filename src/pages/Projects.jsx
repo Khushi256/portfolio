@@ -1,10 +1,8 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { SiReact, SiTailwindcss, SiJavascript } from 'react-icons/si'
 import { FiExternalLink, FiGithub } from 'react-icons/fi'
 
-// Import images from assets folder
-import resumebotImg from '../assets/resume-bot.png'
+import reflectiqimg from '../assets/reflectiq-img.png'
 import craftImg from '../assets/craft-img.png'
 import crustImg from '../assets/crust-img.png'
 
@@ -12,13 +10,13 @@ import crustImg from '../assets/crust-img.png'
 const Projects = () => {
   const projects = [
     {
-      title: "ResumeBot",
-      description: "AI-Powered Resume Generator using Gemini API. A smart chatbot that collects user information through conversation and generates clean, ATS-friendly resumes in Markdown or LaTeX format.",
-      image: resumebotImg,
-      tech: ["React", "Tailwind CSS", "Gemini API", "jsPDF"],
-      github: "https://github.com/Khushi256/ResumeBot",
-      demo: "https://resume-bot.vercel.app/",
-      gradient: "from-[#FD81C0] to-[#FF6B9D]"
+      title: "ReflectIQ",
+      description: "Real-time AI journal with goal tracking and team chat. Built responsive UI with React, TypeScript, and WebSocket integration.",
+      image: reflectiqimg,
+      tech: ["React 18", "TypeScript", "Tailwind CSS", "Framer Motion", "WebSocket"],
+      github: "https://github.com/riteshkrkarn/ai-journal",
+      demo: "https://reflectiq.r2k.dev",
+      gradient: "from-[#6366F1] to-[#8B5CF6]"
     },
     {
       title: "Crust",
